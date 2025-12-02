@@ -2,7 +2,7 @@ This is a quick tool to lookup words, names and places while reading a book.
 
 To use the tool, add the file to your bin and path. Make it executable.
 
-You will need 
+You will need python 3.
 
 To use:
 book LOOKUP
